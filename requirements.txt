@@ -1,0 +1,6 @@
+Flask
+google-genai
+youtube-transcript-api
+python-dotenv
+gunicorn
+fpdf2
